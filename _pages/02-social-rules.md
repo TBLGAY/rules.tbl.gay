@@ -53,7 +53,7 @@ If you have any questions about any part of the code of conduct or social rules,
 
 The TBLGAY server has several hundred members, many of whom lurk without saying anything in chat, and new people joining every day. 
 
-Not everyone knows who you are or what your situation is, so try not to make any inside jokes that could be misinterpreted badly. For example, calling your friend by a nickname or accusing them of something that they pretend to hate. To a newcomer who doesn't know the context, this might look like bullying, and give the wrong impression about the kind of place this is.
+Not everyone knows who you are or what your situation is, so try not to make any inside jokes that could be misinterpreted badly. For example, calling your friend by a nickname that might read as mean without context or accusing them of something that they pretend to hate. To a newcomer who doesn't know the context, this might look like bullying, and give the wrong impression about the kind of place this is.
 
 
 ## **Remember that we’re all here to learn.**

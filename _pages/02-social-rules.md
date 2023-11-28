@@ -28,7 +28,7 @@ If you have any questions about any part of the code of conduct or social rules,
 
     To maintain a non-overwhelming environment, we urge everyone to **use and follow both tempcheck and the pause emoji.**
 
-* **Use tone indicators when necessary: **Tone can be fairly ambiguous over text. Adding a tone indicator at the end of your message can help others better understand what you mean. While this isn’t needed after every sentence, it’s important to add them onto messages that might be misinterpreted, such as play-fighting, or when asked to clarify. 
+* **Use tone indicators when necessary:** Tone can be fairly ambiguous over text. Adding a tone indicator at the end of your message can help others better understand what you mean. While this isn’t needed after every sentence, it’s important to add them onto messages that might be misinterpreted, such as play-fighting, or when asked to clarify. 
 
     Common tone indicators include: 
 
@@ -41,7 +41,7 @@ If you have any questions about any part of the code of conduct or social rules,
     * /hj = half joking 
     * /lh = light hearted 
     * /s = sarcastic
-* **When interacting with others in #vents-channel : **
+* **When interacting with others in #vents-channel :**
     * **Keep it serious.** If you’re making a joke, it probably shouldn’t interrupt someone in vents. 
     * **Ask before offering advice** or put it behind a spoiler in case the person doesn't want it.
     * **Don’t recenter the conversation to be about yourself.** Sharing your own experiences can be a powerful tool for empathizing with others; but keep in mind that the goal is not to vent your _own_ frustrations. 

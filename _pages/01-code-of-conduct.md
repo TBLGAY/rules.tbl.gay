@@ -109,11 +109,9 @@ TBLGAY only works as a self-directed, community-driven organization because of s
 
 ## **Where and how to report**
 
-Please report all code of conduct violations either via Discord Direct Message, pinging the @Collective role directly in a channel, or via email to tblgayinternal@yfs.ca. 
+Please report all code of conduct violations either via Discord Direct Message, pinging the @Collective role directly in a channel, or via email to [tblgayinternal@yfs.ca](mailto:tblgayinternal@yfs.ca). 
 
 In your report, include as much of the following as you feel comfortable:
-
-
 
 * The name you use in TBLGAY spaces (Discord, the drop-in space, etc) — this can help us understand the context of the report.
 * A detailed description of what happened — please link to or send us the relevant text if the incident took place online.

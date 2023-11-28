@@ -6,7 +6,7 @@ permalink: /code-of-conduct
 ---
 
 
-# **Unacceptable behavior**
+## **Unacceptable behavior**
 
 The following types of behavior are unacceptable in TBLGAY and constitute code of conduct violations.
 

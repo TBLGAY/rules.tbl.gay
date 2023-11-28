@@ -32,7 +32,7 @@
             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
             {% endif %}
                 <a href="{{site.baseurl}}/" onclick="pageScrollToTop(this)">
-                    {{ site.title | escape }}
+                    <b>Preface</b>
                 </a>
             </li>
 
@@ -54,7 +54,7 @@
                         <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
                             <a href="{{site.baseurl}}{{post.url}}" onclick="pageScrollToTop(this)">
-                                {{ post.title | escape }}
+                                <b>{{ post.title | escape }}</b>
                             </a>
                             {% if site.toc.enabled %}
                                 {% if page.url == post.url %}
@@ -69,12 +69,6 @@
                     {% endif %}
                 {% endif %}
             {% endfor %}
-
-            <li>
-                <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
-                    Fork it Now!
-                </a>
-            </li>
         </ul>
     </nav>
 </div>
